@@ -1,29 +1,29 @@
 # Hi, I'm Pawan Dagur 👋
 
-Data Science / ML engineer (transitioning from full-stack) with a focus on credit risk, predictive modeling and production-ready ML systems.
+Full-stack engineer with an ML focus — I enjoy designing systems end-to-end (backend/API → data → ML model → deployment), especially on AWS.
 
-- Building end-to-end ML pipelines and risk models
-- Open to: Data Scientist / ML Engineer / Credit Risk Analytics roles
+- System design & backend-first mindset
+- AWS + containers/serverless + CI/CD
+- ML: modeling + model serving APIs (FastAPI / Lambda)
 
-## Tech Stack
-**Data Science & ML:** Python, Pandas, NumPy, scikit-learn, XGBoost  
-**MLOps:** GitHub Actions, Docker, AWS (Lambda, SAM), REST APIs  
-**Backend:** Node.js, NestJS, Python, Django  
-**Databases:** PostgreSQL, DynamoDB, Prisma ORM  
-**Cloud & DevOps:** AWS, Docker, Kubernetes
+## Focus areas
+- Credit risk scoring pipelines
+- ML system design (training → scoring → monitoring)
+- Backend & distributed systems
+- AWS infrastructure patterns
 
-## Credit Risk & ML Projects
-| Project | Description | Highlights |
+## System Design + ML projects
+| Project | Scope | Tech / patterns |
 |---|---|---|
-| [Credit Risk Prediction](https://github.com/pawandagur786123/credit-risk-prediction) | Credit risk default prediction pipeline (EDA → training → evaluation) | Imbalanced learning, AUC/ROC, model comparison |
-| [SAM Lambda](https://github.com/pawandagur786123/sam-lambda) | Serverless API & data ingestion backbone (AWS) | Lambda, DynamoDB, SAM |
+| [Credit Risk Prediction](https://github.com/pawandagur786123/credit-risk-prediction) | Train + serve model | Pandas, scikit-learn, FastAPI |
+| [SAM Lambda](https://github.com/pawandagur786123/sam-lambda) | Serverless API backbone | AWS Lambda, SAM, DynamoDB |
 
-## Selected Backend Projects
-| Project | Description | Stack |
+## Backend / Cloud systems
+| Project | Scope | Tech |
 |---|---|---|
-| [Job Tracker](https://github.com/pawandagur786123/Job-tracker) | Job application tracking API with auth and CRUD | NestJS · TypeScript · Prisma · Docker · k8s |
-| [Django Backend](https://github.com/pawandagur786123/django-Backend) | REST API backend | Python · Django |
-| [NODE-ALB](https://github.com/pawandagur786123/NODE-ALB) | Application load balancer built with Node.js | Node.js · Express · http-proxy |
+| [Job Tracker](https://github.com/pawandagur786123/Job-tracker) | API + auth + CRUD | NestJS, TypeScript, Prisma, Docker, k8s |
+| [Django Backend](https://github.com/pawandagur786123/django-Backend) | REST API backend | Python, Django |
+| [NODE-ALB](https://github.com/pawandagur786123/NODE-ALB) | Load balancer | Node.js, Express, http-proxy |
 
-## Currently Learning
-Credit risk feature engineering, AUC/ROC, Precision-Recall, ML deployment patterns.
+## Currently learning
+System design interviews, AWS ML, ML observability.
